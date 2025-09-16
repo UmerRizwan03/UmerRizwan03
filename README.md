@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a full stack developer<br>created full stack websites for businesses<br>intermediate android developer<br>ai einthusiast<br><br>
+I’m a Full Stack Developer with a focus on building scalable, production-ready web applications for businesses. My experience spans from designing responsive user interfaces to architecting robust back-end systems.
+
+Beyond the web, I’m an intermediate Android developer, exploring the intersection of mobile and cloud technologies.
+
+As an AI enthusiast, I’m particularly interested in how machine learning and intelligent systems can be integrated into everyday applications—whether it’s automating workflows, enhancing user experience, or pushing projects toward smarter solutions.
+
+🚀 Always curious, always building—at the crossroads of code and intelligence.<br><br>
 
 
 ## 🌐 Socials:
